@@ -44,6 +44,7 @@ function SkillList() {
       <Skill skill="AWSCloud" emoji="💪" color="yellow" />
       <Skill skill="Java" emoji="💪" color="orangered" />
       <Skill skill="Git-Github" emoji="💪" color="yellow" />
+      <Skill skill="Postman" emoji="💪" color="yellow" />
     </div>
   );
 }
